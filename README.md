@@ -10,14 +10,19 @@ Aucune installation particulière n'est nécessaire.
 
 Lancer les fichiers du projet et suivre les consignes.
 
+## Contribution
+
+Les suggestions d'amélioration sont les bienvenues.
+
 ## Licence
 
 Projet pédagogique.
 
 ## Contact
 
-Malik Boussaidi
+
+Malik Boussaidi et Afnanmasud Dhali
 
 ## Modification
 
-Je modifie le fichier README.md
+Je modifie le fichier README.md sur une autre branche que main.
